@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+### Bhumika
 
-You can use the [editor on GitHub](https://github.com/cbhumika/cbhumika.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Researh Intereset
+Urban Computing
+Smart Transportation 
+Machine Learning
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Educational Details
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#Master of Technology [Computer Science and Engineering]
+University – Guru Gobind Singh Indraprastha Univeristy, Delhi
+Institution – Center for Development of Advanced Computing, Noida
+Year - 2017 to 2019
+CGPA – 9.02
 
-```markdown
-Syntax highlighted code block
+#Bachelor of Technology [Computer Science and Engineering]
+University – Himachal Pradesh Technical Education, Hamirpur
+Institution – Atal Bihari Vajpayee Government Institute of Engineering &       
+                    Technology, Pragatinagar, Himachal Pradesh 
+Year - 2012 to 2016
+Percentage – 1st Division with 77.9 %  
 
-# Header 1
-## Header 2
-### Header 3
+#Diploma [Computer Engineering]
+University – Himachal Pradesh Takniki Shiksha Board, Dharamshala
+Institution – Government Polytechnic Sundernagar, Himachal Pradesh 
+Year - 2009 to 2012
+Percentage – 1st Division with 77.2 %  
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Project Experience
 
-[Link](url) and ![Image](src)
-```
+#Automatic Grading of Subjective Answers [M. Tech]
+It automatically grade students short subjective answers using Machine learning techniques by exploiting lexical, syntactic and semantic features if reference answer is given to question. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#College Bulletin Board [B. Tech]
+Android based application for college students to get notices faster. Android Studio is used as development IDE, Java as a language and Xml for design.
 
-### Jekyll Themes
+#Web Portal for online Counselling [Diploma]
+Use of .net platform for online counselling website development.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cbhumika/cbhumika.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Work Experience
+Worked as Associate Engineer at Samsung Electronics Pvt. Ltd. [2012-2013]
+Worked as Guest Faculty at NIT, Hamirpur [Aug 2019-Dec2019]
 
-### Support or Contact
+### Extra Curricular Activites
+Participated in workshop titled as AI & Machine Learning[NIT Hamirpur]
+Member of Technical Club [2012-2016]
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
